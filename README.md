@@ -3,7 +3,7 @@
 <!--
 **Adarsha69005/Adarsha69005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on ...C#
 - 🌱 I’m currently learning ...C#
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...adarsha69005@gmail.com
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...
--->
+
