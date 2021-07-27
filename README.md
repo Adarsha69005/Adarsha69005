@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started: -->
 
-- 🌱 I’m currently learning ...C#
-- 👯 I’m looking to collaborate on ... C#, ReactJS
+- 🌱 I’m currently learning ...AWS
+- 👯 I’m looking to collaborate on ... AWS, ReactJS
 - 📫 How to reach me: ...adarsha69005@gmail.com
 - 😄 Pronouns: ...He/Him
 
